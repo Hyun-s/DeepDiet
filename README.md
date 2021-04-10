@@ -5,3 +5,6 @@
 git add .
 git commit -m “커밋이름”
 git push
+
+
+참고: https://hyoje420.tistory.com/41
